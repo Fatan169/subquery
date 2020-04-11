@@ -17,6 +17,7 @@ Tabel Berikutnya adalah tabel dosen
 Tabel setelah tabel dosen adalah tabel jurusan
 # Hasil Enam
 ![Alt Text](https://github.com/Fatan169/subquery/blob/master/XAMPP%20for%20Windows%20-%20mysql%20%20-u%20root%20-p%204_11_2020%207_22_46%20AM.png "Hasil Enam")
+Tabel tersebut menunjukan jumlah kelamin Perempuan di tabel mahasiswa
 # Hasil Tujuh
 ![Alt Text](https://github.com/Fatan169/subquery/blob/master/XAMPP%20for%20Windows%20-%20mysql%20%20-u%20root%20-p%204_11_2020%207_23_19%20AM.png "Hasil Tujuh")
 di tabel tersebut ditunjukan dimana tabel bernama wati berada
